@@ -4,8 +4,8 @@
 
 ### Links
 
-- Solution URL: ()
-- Live Site URL: ()
+- Solution URL: [Front-end Mentor](https://www.frontendmentor.io/solutions/using-curved-images-to-separate-sections-vac8FlbWTe)
+- Live Site URL: (https://aallam0.github.io/Huddle-Landing-Page-With--Curved-Sections)
 
 ### Author
 
